@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
+project = 'AUVANA'
+copyright = '29022, AILLA Lab'
 author = 'Graziella'
 
 release = '0.1'
